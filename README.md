@@ -14,3 +14,5 @@ In my test, when I defined the resolution to 2 degrees and time_step=18 , the CP
 After changing resolution to 0.5 degree and time_step=1, the CPU version needed over 1800s to run 1hour, but the GPU version needed only about 239s.
 
 That is, GPU needs the large matrices to make full use of its strength.
+
+SBPEM:https://github.com/DwyaneChou/SBPEM
